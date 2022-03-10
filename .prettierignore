@@ -1,0 +1,9 @@
+# Ignore artifacts:
+dist
+coverage
+test
+node_modules
+
+# Ignore all HTML files:
+*.js
+*.json
